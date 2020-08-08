@@ -44,69 +44,6 @@ class _MyHeaderState extends State<MyHeader> {
           children: <Widget>[
             GestureDetector(
               onTap: () {
-                showDialog(
-                    context: context,
-                    builder: (context) {
-                      bool x = Random().nextBool();
-                      return Dialog(
-                        clipBehavior: Clip.antiAliasWithSaveLayer,
-                        shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(15)),
-                        child: Container(
-                          color: (x) ? Color(0xffe84a5f) : Color(0xffc4fb6d),
-                          height: 300,
-                          child: Column(
-                            children: <Widget>[
-                              SizedBox(
-                                height: 10,
-                              ),
-                              Text(
-                                "Test your self",
-                                style: TextStyle(
-                                    fontFamily: 'fedroka',
-                                    color: Colors.white,
-                                    fontSize: 18),
-                              ),
-                              Row(
-                                children: <Widget>[
-                                  Padding(
-                                    padding: const EdgeInsets.all(8.0),
-                                    child: SizedBox(
-                                      height: 100,
-                                      width: 100,
-                                      child: Image.asset('assets/covid/1.jpeg'),
-                                    ),
-                                  ),
-                                  Expanded(
-                                    child: Padding(
-                                      padding: const EdgeInsets.all(8.0),
-                                      child: Text(
-                                          "We have found your xray in our database",
-                                          softWrap: true,
-                                          style: TextStyle(
-                                              fontFamily: 'fedroka',
-                                              color: Colors.white,
-                                              fontSize: 18)),
-                                    ),
-                                  )
-                                ],
-                              ),
-                              Padding(
-                                padding: const EdgeInsets.all(8.0),
-                                child: Text(
-                                  "From test we found that \nyou are covid ${(x) ? 'positve' : 'negative'}",
-                                  textAlign: TextAlign.center,
-                                  style: TextStyle(
-                                      fontFamily: 'fedroka',
-                                      color: Colors.white,
-                                      fontSize: 20),
-                                ),
-                              )
-                            ],
-                          ),
-                        ),
-                      );
-                    });
               },
               child: SvgPicture.asset("assets/icons/menu.svg"),
             ),
