@@ -1,4 +1,3 @@
-
 import 'package:Monks/provider/auth.dart';
 import 'package:Monks/services/CovidAPI.dart';
 import 'package:get_it/get_it.dart';
@@ -7,6 +6,8 @@ import 'package:flutter/material.dart';
 import 'screens/splash_screen.dart';
 import 'services/CovidAPI_india.dart';
 import 'package:Monks/constant.dart';
+import 'package:Monks/provider/country_providers.dart';
+import 'package:Monks/provider/navigation.dart';
 
 void setupLocator() {
   GetIt.I.registerSingleton(CovidAPI.create());
@@ -23,6 +24,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
+        ChangeNotifierProvider<NavbarData>(create: (_) => NavbarData()),
+        ChangeNotifierProvider<CountryProvider>(
+            create: (_) => CountryProvider()),
         ChangeNotifierProvider<AuthProvider>(
             create: (_) => AuthProvider.initialize()),
       ],
