@@ -1,12 +1,13 @@
 import 'dart:async';
-import 'package:covidAPP/HomePage.dart';
-import 'package:covidAPP/helpers/screen_navigation.dart';
-import 'package:covidAPP/helpers/user.dart';
-import 'package:covidAPP/model/user.dart';
+import 'package:Monks/helpers/screen_navigation.dart';
+import 'package:Monks/helpers/user.dart';
+import 'package:Monks/model/user.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../Homepage.dart';
 
 enum Status { Uninitialized, Authenticated, Authenticating, Unauthenticated }
 

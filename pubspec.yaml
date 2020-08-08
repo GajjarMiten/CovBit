@@ -32,12 +32,15 @@ dependencies:
   get_it: ^4.0.4
   firebase_auth: ^0.16.1
   cloud_firestore: ^0.13.7
+  shared_preferences: ^0.5.8
+  numeric_keyboard: ^1.0.0
+  loading_indicator: ^1.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   chopper_generator: ^3.0.5
-  build_runner: 
+  build_runner: null
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
