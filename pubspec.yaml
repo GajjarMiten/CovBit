@@ -39,6 +39,7 @@ dependencies:
   flutter_icons: ^1.1.0
   flutter_svg: ^0.17.4
   progress_indicators: ^0.1.5
+  dash_chat: ^1.1.14
 
 dev_dependencies:
   flutter_test:
@@ -63,26 +64,24 @@ flutter:
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
-
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
-
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-  - family: Poppins
-    fonts:
-      - asset: assets/fonts/Poppins/Poppins-Regular.ttf
-      - asset: assets/fonts/Poppins/Poppins-Medium.ttf
-        weight: 600
-      - asset: assets/fonts/Poppins/Poppins-Bold.ttf
-        weight: 700
-  - family: fedroka
-    fonts:
-      - asset: assets/fonts/fedone.ttf
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+    - family: fedroka
+      fonts:
+        - asset: assets/fonts/fedone.ttf
+    # For details regarding fonts from package dependencies,
+    # see https://flutter.dev/custom-fonts/#from-packages
 
