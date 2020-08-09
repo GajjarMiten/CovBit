@@ -12,6 +12,7 @@ Hello Community 👋:
 -   CovBit is also available to predict if the patient is COVID🦠 positive or not by just the help of uploaded images of the X-Ray📋.
 -   CovBit has a chat box which is helpful for common doubts.
 -   CovBit is also aware us by providing the real-time location of Covid-19🦠 positive users.
+-  Give a try to [CovBit-apk](https://drive.google.com/file/d/1h2IKGniDqVr_NPPDXt3cnknNf93NOmn6/view?usp=drivesdk)
 
 # 💁‍♂️**Features**💁‍♀️::
 
