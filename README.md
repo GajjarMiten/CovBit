@@ -42,6 +42,8 @@ Social distancing plays important role in the time of this pandemic. So social d
 Many people get panicked in the thinking of small issues related to their health, and this small illness doesn’t require the assessment of doctors👨🏼‍⚕️.
 So that we have created the chat box which shows that if the person needs any medical💊 attention🩺 or not and makes us aware. This chat box helps people to come out of panic situations and depression.
 
+<img src="./images/covbot.png" height=500>
+</img>
 
 ## **4.COVID-19🦠 positive user tracker**:✔️
 
