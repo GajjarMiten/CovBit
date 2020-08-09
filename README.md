@@ -23,11 +23,19 @@ Hello Community 👋:
 
 
 **At Local Tab**: Realtime data🗂️ of every state of India related Covid-19🦠 cases.
+<table>
+  <tr>
+    <td><img src="./images/world.png" height=500></td>
+    <td><img src="./images/local.png" height=500></td> 
+  </tr>
+  </table>
 
 ## **2.Social Distancing Module**📏:✔️
 
 Social distancing plays important role in the time of this pandemic. So social distancing is most important to stop🛑 the spread of COVID-19. That’s why we come up with one solution which takes care of the social distancing. If Bluetooth permission is granted in the app then it also makes us aware of social distancing. It gives us a warning⚠️ if we get too close to another person. But to get the advantage of this feature both people should have CovBit.
 
+ <img src="./images/scanner.png" height=500 >
+</img>
 
 ## **3.Self Assessmaent Chatbot**🤖:
 
@@ -39,6 +47,8 @@ So that we have created the chat box which shows that if the person needs any me
 
 The location of the COVID infected😷 person is the most important to put the focus on. If we are aware of the location of COVID infected than we can take precautions🩸. So that we have given the facility to get the location of COVID infected person.
 
+ <img src="./images/tracker.png" height=500 >
+</img>
 
 ## **5.Detection of COVID-19 using x-ray📋**:
 
