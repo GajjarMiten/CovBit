@@ -4,43 +4,49 @@ Hello Community 👋:
 
 # 💡**Project Description**💡::
 
--	𝙲𝚘𝚟𝙱𝚒𝚝 𝚒𝚜 𝚊𝚗 Mobile📱 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚑𝚊𝚝 𝚒𝚜 𝚑𝚎𝚕𝚙𝚏𝚞𝚕🙌 𝚝𝚘 𝚐𝚎𝚝 𝚒𝚗 𝚝𝚘𝚞𝚌𝚑 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝚜𝚌𝚎𝚗𝚊𝚛𝚒𝚘 𝚘𝚏 𝙲𝚘𝚟𝚒𝚍-𝟷𝟿🦠 𝚌𝚊𝚜𝚎𝚜 𝚊𝚕𝚕 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍🌐 𝚊𝚜 𝚠𝚎𝚕𝚕 𝚊𝚜 𝙸𝚗𝚍𝚒𝚊 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚛𝚒𝚎𝚏 𝚜𝚝𝚊𝚝𝚎-𝚠𝚒𝚜𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗.
--	𝙲𝚘𝚟𝙱𝚒𝚝 𝚒𝚜 𝚊𝚕𝚜𝚘 𝚑𝚎𝚕𝚙𝚏𝚞𝚕 𝚝𝚘 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚍𝚒𝚜𝚝𝚊𝚗𝚌𝚒𝚗𝚐. 
--	𝙲𝚘𝚟𝙱𝚒𝚝 𝚒𝚜 𝚊𝚕𝚜𝚘 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚝𝚘 𝚙𝚛𝚎𝚍𝚒𝚌𝚝 𝚒𝚏 𝚝𝚑𝚎 𝚙𝚊𝚝𝚒𝚎𝚗𝚝 𝚒𝚜 𝙲𝙾𝚅𝙸𝙳🦠 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚘𝚛 𝚗𝚘𝚝 𝚋𝚢 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚑𝚎𝚕𝚙 𝚘𝚏 𝚞𝚙𝚕𝚘𝚊𝚍𝚎𝚍 𝚒𝚖𝚊𝚐𝚎𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚇-𝚁𝚊𝚢📋.
--	𝙲𝚘𝚟𝙱𝚒𝚝 𝚑𝚊𝚜 𝚊 𝚌𝚑𝚊𝚝 𝚋𝚘𝚡 𝚠𝚑𝚒𝚌𝚑 𝚒𝚜 𝚑𝚎𝚕𝚙𝚏𝚞𝚕 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚘𝚗 𝚍𝚘𝚞𝚋𝚝𝚜.
--   𝙲𝚘𝚟𝙱𝚒𝚝 𝚒𝚜 𝚊𝚕𝚜𝚘 𝚊𝚠𝚊𝚛𝚎 𝚞𝚜 𝚋𝚢 𝚙𝚛𝚘𝚟𝚒𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝙲𝚘𝚟𝚒𝚍-𝟷𝟿🦠 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚞𝚜𝚎𝚛𝚜.
+-   CovBit is an Mobile📱 application that is helpful🙌 to get in touch with the current scenario of Covid-19🦠 cases all over the world🌐 as well as India and also brief state-wise information.
+-   CovBit is also helpful to maintain social distancing. 
+-   CovBit is also available to predict if the patient is COVID🦠 positive or not by just the help of uploaded images of the X-Ray📋.
+-   CovBit has a chat box which is helpful for common doubts.
+-   CovBit is also aware us by providing the real-time location of Covid-19🦠 positive users.
 
 # 💁‍♂️**Features**💁‍♀️::
 
 ## **1.Current status of COVID-19🦠**:✔️
+
 -   To get updated with the current situation of the COVID-19🦠, we have created a dashboard📈 that gives us real-time data🗂️.
   
-**At World Tab**: Realtime data🗂️ of any country related to Covid-19🦠 cases.
+**At World Tab**:Realtime data🗂️ of any country related to Covid-19🦠 cases are available.
+
 
 **At Local Tab**: Realtime data🗂️ of every state of India related Covid-19🦠 cases.
-  
+
 ## **2.Social Distancing Module**📏:✔️
 
-𝚂𝚘𝚌𝚒𝚊𝚕 𝚍𝚒𝚜𝚝𝚊𝚗𝚌𝚒𝚗𝚐 𝚙𝚕𝚊𝚢𝚜 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚛𝚘𝚕𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚒𝚖𝚎 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚙𝚊𝚗𝚍𝚎𝚖𝚒𝚌. 𝚂𝚘 𝚜𝚘𝚌𝚒𝚊𝚕 𝚍𝚒𝚜𝚝𝚊𝚗𝚌𝚒𝚗𝚐 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚝𝚘 𝚜𝚝𝚘𝚙🛑 𝚝𝚑𝚎 𝚜𝚙𝚛𝚎𝚊𝚍 𝚘𝚏 𝙲𝙾𝚅𝙸𝙳-𝟷𝟿. 𝚃𝚑𝚊𝚝’𝚜 𝚠𝚑𝚢 𝚠𝚎 𝚌𝚘𝚖𝚎 𝚞𝚙 𝚠𝚒𝚝𝚑 𝚘𝚗𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗 𝚠𝚑𝚒𝚌𝚑 𝚝𝚊𝚔𝚎𝚜 𝚌𝚊𝚛𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚘𝚌𝚒𝚊𝚕 𝚍𝚒𝚜𝚝𝚊𝚗𝚌𝚒𝚗𝚐. 𝙸𝚏 𝙱𝚕𝚞𝚎𝚝𝚘𝚘𝚝𝚑 𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚒𝚜 𝚐𝚛𝚊𝚗𝚝𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚊𝚙𝚙 𝚝𝚑𝚎𝚗 𝚒𝚝 𝚊𝚕𝚜𝚘 𝚖𝚊𝚔𝚎𝚜 𝚞𝚜 𝚊𝚠𝚊𝚛𝚎 𝚘𝚏 𝚜𝚘𝚌𝚒𝚊𝚕 𝚍𝚒𝚜𝚝𝚊𝚗𝚌𝚒𝚗𝚐. 𝙸𝚝 𝚐𝚒𝚟𝚎𝚜 𝚞𝚜 𝚊 𝚠𝚊𝚛𝚗𝚒𝚗𝚐⚠️ 𝚒𝚏 𝚠𝚎 𝚐𝚎𝚝 𝚝𝚘𝚘 𝚌𝚕𝚘𝚜𝚎 𝚝𝚘 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚙𝚎𝚛𝚜𝚘𝚗. 𝙱𝚞𝚝 𝚝𝚘 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚊𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚏𝚎𝚊𝚝𝚞𝚛𝚎 𝚋𝚘𝚝𝚑 𝚙𝚎𝚘𝚙𝚕𝚎 𝚜𝚑𝚘𝚞𝚕𝚍 𝚑𝚊𝚟𝚎 𝙲𝚘𝚟𝙱𝚒𝚝..
+Social distancing plays important role in the time of this pandemic. So social distancing is most important to stop🛑 the spread of COVID-19. That’s why we come up with one solution which takes care of the social distancing. If Bluetooth permission is granted in the app then it also makes us aware of social distancing. It gives us a warning⚠️ if we get too close to another person. But to get the advantage of this feature both people should have CovBit.
+
 
 ## **3.Self Assessmaent Chatbot**🤖:
 
-𝙼𝚊𝚗𝚢 𝚙𝚎𝚘𝚙𝚕𝚎 𝚐𝚎𝚝 𝚙𝚊𝚗𝚒𝚌𝚔𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚑𝚒𝚗𝚔𝚒𝚗𝚐 𝚘𝚏 𝚜𝚖𝚊𝚕𝚕 𝚒𝚜𝚜𝚞𝚎𝚜 𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘 𝚝𝚑𝚎𝚒𝚛 𝚑𝚎𝚊𝚕𝚝𝚑, 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚜𝚖𝚊𝚕𝚕 𝚒𝚕𝚕𝚗𝚎𝚜𝚜 𝚍𝚘𝚎𝚜𝚗’𝚝 𝚛𝚎𝚚𝚞𝚒𝚛𝚎 𝚝𝚑𝚎 𝚊𝚜𝚜𝚎𝚜𝚜𝚖𝚎𝚗𝚝 𝚘𝚏 𝚍𝚘𝚌𝚝𝚘𝚛𝚜👨🏼‍⚕️.
-𝚂𝚘 𝚝𝚑𝚊𝚝 𝚠𝚎 𝚑𝚊𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚝𝚑𝚎 𝚌𝚑𝚊𝚝 𝚋𝚘𝚡 𝚠𝚑𝚒𝚌𝚑 𝚜𝚑𝚘𝚠𝚜 𝚝𝚑𝚊𝚝 𝚒𝚏 𝚝𝚑𝚎 𝚙𝚎𝚛𝚜𝚘𝚗 𝚗𝚎𝚎𝚍𝚜 𝚊𝚗𝚢 𝚖𝚎𝚍𝚒𝚌𝚊𝚕💊 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚘𝚗🩺 𝚘𝚛 𝚗𝚘𝚝 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎𝚜 𝚞𝚜 𝚊𝚠𝚊𝚛𝚎. 𝚃𝚑𝚒𝚜 𝚌𝚑𝚊𝚝 𝚋𝚘𝚡 𝚑𝚎𝚕𝚙𝚜 𝚙𝚎𝚘𝚙𝚕𝚎 𝚝𝚘 𝚌𝚘𝚖𝚎 𝚘𝚞𝚝 𝚘𝚏 𝚙𝚊𝚗𝚒𝚌 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚍𝚎𝚙𝚛𝚎𝚜𝚜𝚒𝚘𝚗.
+Many people get panicked in the thinking of small issues related to their health, and this small illness doesn’t require the assessment of doctors👨🏼‍⚕️.
+So that we have created the chat box which shows that if the person needs any medical💊 attention🩺 or not and makes us aware. This chat box helps people to come out of panic situations and depression.
+
 
 ## **4.COVID-19🦠 positive user tracker**:✔️
 
-𝚃𝚑𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚝𝚑𝚎 𝙲𝙾𝚅𝙸𝙳 𝚒𝚗𝚏𝚎𝚌𝚝𝚎𝚍😷 𝚙𝚎𝚛𝚜𝚘𝚗 𝚒𝚜 𝚝𝚑𝚎 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚝𝚘 𝚙𝚞𝚝 𝚝𝚑𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗. 𝙸𝚏 𝚠𝚎 𝚊𝚛𝚎 𝚊𝚠𝚊𝚛𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝙲𝙾𝚅𝙸𝙳 𝚒𝚗𝚏𝚎𝚌𝚝𝚎𝚍 𝚝𝚑𝚊𝚗 𝚠𝚎 𝚌𝚊𝚗 𝚝𝚊𝚔𝚎 𝚙𝚛𝚎𝚌𝚊𝚞𝚝𝚒𝚘𝚗𝚜🩸. 𝚂𝚘 𝚝𝚑𝚊𝚝 𝚠𝚎 𝚑𝚊𝚟𝚎 𝚐𝚒𝚟𝚎𝚗 𝚝𝚑𝚎 𝚏𝚊𝚌𝚒𝚕𝚒𝚝𝚢 𝚝𝚘 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝙲𝙾𝚅𝙸𝙳 𝚒𝚗𝚏𝚎𝚌𝚝𝚎𝚍 𝚙𝚎𝚛𝚜𝚘𝚗.
+The location of the COVID infected😷 person is the most important to put the focus on. If we are aware of the location of COVID infected than we can take precautions🩸. So that we have given the facility to get the location of COVID infected person.
+
 
 ## **5.Detection of COVID-19 using x-ray📋**:
 
-𝙷𝚎𝚊𝚕𝚝𝚑 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚛𝚎 𝚏𝚊𝚌𝚒𝚗𝚐 𝚊 𝚜𝚑𝚘𝚛𝚝𝚊𝚐𝚎 𝚘𝚏 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚔𝚒𝚝𝚜 𝚝𝚘 𝚝𝚎𝚜𝚝 𝚙𝚊𝚝𝚒𝚎𝚗𝚝𝚜🤒. 𝚂𝚘, 𝚠𝚎 𝚑𝚊𝚟𝚎 𝚏𝚘𝚞𝚗𝚍 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗 𝚝𝚘 𝚍𝚎𝚝𝚎𝚌𝚝 𝚠𝚑𝚎𝚝𝚑𝚎𝚛 𝚝𝚑𝚎 𝚙𝚊𝚝𝚒𝚎𝚗𝚝 𝚒𝚜 𝙲𝙾𝚅𝙸𝙳 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚘𝚛 𝚗𝚘𝚝. 𝚆𝚎 𝚑𝚊𝚟𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝙰𝙸 𝚠𝚑𝚒𝚌𝚑 𝚍𝚎𝚝𝚎𝚌𝚝𝚜 𝚝𝚑𝚎 𝙲𝙾𝚅𝙸𝙳-𝟷𝟿 𝚜𝚝𝚊𝚝𝚞𝚜 𝚋𝚢 𝚝𝚑𝚎 𝚒𝚖𝚊𝚐𝚎 𝚘𝚏 𝚇-𝚁𝚊𝚢𝚜.
+Health organizations are facing a shortage of testing kits to test patients🤒. So, we have found another solution to detect whether the patient is COVID positive or not. We have implemented AI which detects the COVID-19 status by the image of X-Rays.
 
 
 # **Limitation of our CovBit application😞**::
 
--	𝚆𝚎 𝚊𝚛𝚎 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚇-𝚁𝚊𝚢 𝚒𝚖𝚊𝚐𝚎 𝚙𝚛𝚎𝚍𝚒𝚌𝚝𝚘𝚛 𝙰𝙸.
--	𝙱𝚎𝚌𝚊𝚞𝚜𝚎 𝚘𝚏 𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚞𝚜𝚎𝚛𝚜, 𝚠𝚎 𝚑𝚊𝚟𝚎𝚗’𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎𝚍 𝚝𝚑𝚎 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚕𝚘𝚌𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝙲𝙾𝚅𝙸𝙳-𝟷𝟿 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚙𝚊𝚝𝚒𝚎𝚗𝚝.
+-	We are currently working on X-Ray image predictor AI.
+-	Because of limited users, we haven’t provided the real-time location of COVID-19 positive patient. 
+
 
 
 
