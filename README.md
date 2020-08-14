@@ -13,6 +13,11 @@ Hello Community 👋:
 -   CovBit has a chat box which is helpful for common doubts.
 -   CovBit is also aware us by providing the real-time location of Covid-19🦠 positive users.
 -  Give a try to [CovBit-apk](https://drive.google.com/file/d/1h2IKGniDqVr_NPPDXt3cnknNf93NOmn6/view?usp=drivesdk)
+> Winner at Yuva Hackathon Bhavnagar Chapter.<br>
+> Top 15/437 at [Hack Against Covid(HAC-202)](https://hac.codezoned.com/)<br>
+> [link](https://github.com/HAC-2020/Monks) for repo at HAC-2020
+
+
 
 # 💁‍♂️**Features**💁‍♀️::
 
