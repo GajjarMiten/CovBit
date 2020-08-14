@@ -46,7 +46,7 @@ Social distancing plays important role in the time of this pandemic. So social d
 ## **3.Self Assessmaent Chatbot**🤖:
 
 Many people get panicked in the thinking of small issues related to their health, and this small illness doesn’t require the assessment of doctors👨🏼‍⚕️.
-So that we have created the chat bo which shows that if the person needs any medical💊 attention🩺 or not and makes us aware. This chat bot helps people to come out of panic situations and depression.
+So that we have created the chat bot which shows that if the person needs any medical💊 attention🩺 or not and makes us aware. This chat bot helps people to come out of panic situations and depression.
 
 <img src="./images/covbot.png" height=500>
 </img>
