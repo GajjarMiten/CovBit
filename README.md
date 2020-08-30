@@ -65,7 +65,10 @@ Health organizations are facing a shortage of testing kits to test patients🤒.
 
 # **Limitation of our CovBit application😞**::
 
--	We are currently working on X-Ray image predictor AI.
+-	We are currently working on X-Ray image predictor AI. We need to integrate this model into CovBit.
+- Currently CovBit shows only total numbers of positive, recoverd and death in any particular country or Indian state
+  we can fetch more data from APIs and can visualize that data in form of graphs so user can know more about
+  current situation.
 -	Because of limited users, we haven’t provided the real-time location of COVID-19 positive patient. 
 
 
