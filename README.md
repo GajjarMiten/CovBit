@@ -24,6 +24,9 @@ Hello Community 👋:
 ## **1.Current status of COVID-19🦠**:✔️
 
 -   To get updated with the current situation of the COVID-19🦠, we have created a dashboard📈 that gives us real-time data🗂️.
+- API used:
+  - https://covid19-api.org/ for country wise Covid data
+  - https://covid-19india-api.herokuapp.com/ for Indian State wise Covid data
   
 **At World Tab**:Realtime data🗂️ of any country related to Covid-19🦠 cases are available.
 
